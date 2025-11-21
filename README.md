@@ -20,8 +20,7 @@ I love building **practical AI systems**, **automation tools**, **smart assistan
   - Adobe Express  
   - CapCut  
 - 🏢 **Internships Completed:**  
-  - AI/ML Training — **CTTC Bhubaneswar**  
-  - Data Science & Analytics — **HP Life**  
+  - AI/ML Training — **CTTC Bhubaneswar**   
   - Frontend Development Intern — **CodeAlpha (3 Months)**  
   - AI Intern — **iStudio (3 Months)**  
 - 💼 **Other Projects:**  
@@ -60,6 +59,16 @@ I love building **practical AI systems**, **automation tools**, **smart assistan
 
 ### **Editing Tools**
 - Canva • Adobe Lightroom • Adobe Express • CapCut
+
+---
+
+## 🏆 Certificates & Achievements
+- **AI & Machine Learning Training — CTTC Bhubaneswar**
+- **Data Science & Analytics — HP Life**
+- **Frontend Development Internship — CodeAlpha (3 Months)**
+- **AI Internship — iStudio (3 Months)**
+- Built and maintained multiple AI/ML and Frontend projects  
+- Developed the multi-phase **Aishie AI Assistant** from scratch  
 
 ---
 
