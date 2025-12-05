@@ -48,7 +48,7 @@ I love building **practical AI systems**, **automation tools**, **smart assistan
 
 ### **Tools & Frameworks**
 - VS Code • Jupyter Notebook • Git & GitHub  
-- Flask (Basics) • Selenium • Virtual Environments  
+- Flask (Basics) • Virtual Environments  
 - Figma (UI/UX Basic)
 
 ### **Creative & Editing Skills**
