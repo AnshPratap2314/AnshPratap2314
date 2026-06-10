@@ -1,122 +1,87 @@
-# 👋 Hi, I'm Ansh Pratap  
-### B.Tech CSE | AI & ML Developer | Python Programmer | Frontend Developer | Creator of Aishie (AI Assistant)
+<!-- Animated typing header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ansh+Pratap;AI+%2F+ML+Developer;I+build+systems+that+actually+run." alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+AI/ML developer · Face recognition @ 95–98% accuracy · Local voice assistant · Interview AI with trained classifier
+3rd year B.Tech CSE · Mewar University · Open to remote roles & freelance
+Show Image
+Show Image
+Show Image
+</div>
 
-Welcome to my GitHub! I’m Ansh, a passionate Computer Science Engineering student from **Mewar University, Rajasthan**, specializing in **Artificial Intelligence, Machine Learning, NLP, Python Development, Modern Frontend Design, and Creative Editing**.  
-I love building **practical AI systems**, **automation tools**, **smart assistants**, and producing **high-quality edited content**.
+What I've shipped
+🤖 Aishie — Local AI Assistant
 
----
+Python · OpenCV · NLP · Speech Recognition · Deep Learning
 
-## 🚀 About Me
-- 🎓 **B.Tech CSE (3rd Year)** — Mewar University  
-- 🤖 **Creator of Aishie — AI Assistant**  
-  *(Face Recognition Login • System Awareness • Communication Hub)*  
-- 🧠 Developer of **Mental Health Chatbot**  
-  *(16-Phase Ethical Architecture for safe and meaningful conversations)*  
-- 🎬 **Skilled Photo & Video Editor**  
-  *(Edited multiple reels, photos, promos, and social media content)*  
-- 🛠 **Editing Tools I Use:**  
-  - Canva  
-  - Adobe Lightroom  
-  - Adobe Express  
-  - CapCut  
-- 🏢 **Internships Completed:**  
-  - AI/ML Training — **CTTC Bhubaneswar**   
-  - Frontend Development Intern — **CodeAlpha (3 Months)**  
-  - AI Intern — **iStudio (3 Months)**  
-- 💼 **Other Projects:**  
-  - Restaurant Management System (Python CLI)  
-  - Music Player (HTML/CSS/JS)  
-  - Book Library App (Frontend)  
-- ⚙️ **Currently Working On:**  
-  **Aishie Phase 6.5 – System Awareness & Auto-Update Module**
+Voice-controlled assistant with face authentication. Runs entirely on-device — no cloud dependency.
+Hard part: Compound commands like "open Spotify and search for X" break single-intent classifiers. Solved by splitting the NLP pipeline into discrete action slots before routing to handlers.
 
----
+🎯 AI Interview Simulator
 
-## 🛠️ Tech Stack & Skills
+Python · Scikit-learn · Keras · TF-IDF
 
-### **Languages**
-- Python • JavaScript • HTML • CSS • SQL
+Generates role-specific questions and scores free-text answers using a trained TF-IDF + classifier pipeline — built to distinguish genuine understanding from surface-level keyword use. Returns per-question feedback with specific improvement suggestions, not just pass/fail.
 
-### **AI / ML / DL**
-- TensorFlow  
-- OpenCV  
-- Scikit-Learn  
-- Face Recognition  
-- NLP Pipelines  
-- Classical ML Models  
-- CNN Architectures
+👁️ Face Recognition System
 
-### **Tools & Frameworks**
-- VS Code • Jupyter Notebook • Git & GitHub  
-- Flask (Basics) • Virtual Environments  
-- Figma (UI/UX Basic)
+Python · OpenCV · C++ · Scikit-learn
 
-### **Creative & Editing Skills**
-- Photo Editing  
-- Video Editing  
-- Graphic Design  
-- Content Creation
+Real-time LBPH + SVM pipeline on a custom labelled dataset. 95–98% accuracy under varied lighting.
+Frame processing written in C++ for speed; training pipeline in Python.
 
-### **Editing Tools**
-- Canva • Adobe Lightroom • Adobe Express • CapCut
+💬 NLP Chatbot
 
----
+Python · NLTK · spaCy
 
-## 🏆 Certificates & Achievements
-- **AI & Machine Learning Training — CTTC Bhubaneswar**
-- **Data Science & Analytics — HP Life**
-- **Frontend Development Internship — CodeAlpha (3 Months)**
-- **AI Internship — iStudio (3 Months)**
-- Built and maintained multiple AI/ML and Frontend projects  
-- Developed the multi-phase **Aishie AI Assistant** from scratch  
+Intent-classification chatbot with named entity recognition and multi-turn context tracking.
 
----
+Tech Stack
+<!-- Tech badges via shields.io -->
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-## 🔥 Featured Projects
+GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPratap2314&theme=github-dark-blue&hide_border=true" />
+</div>
 
-### 🧠 **Aishie — Advanced AI Assistant**  
-A powerful Python-based assistant featuring **face recognition login**, **WhatsApp & Email automation**, **system monitoring**, and an expandable modular architecture.  
-👉 *Python | OpenCV | Automation | NLP*
+Contribution Graph
+<!-- Snake animation — setup instructions below -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
----
+Experience
+AI Intern — iStudio 2025
+Automated 3 data preprocessing steps, cutting training iteration time ~30%. Designed LLM prompt templates for consistent inference outputs.
+AI/ML Trainee — CTTC Bhubaneswar Apr–May 2025
+Built face recognition from scratch in ~3 weeks. Benchmarked SVM, KNN, Decision Trees, and neural networks side-by-side on the same dataset.
+Frontend Intern — CodeAlpha 2025
+Built responsive multi-page web app; lazy loading + asset compression dropped mobile first-paint time noticeably.
 
-### ❤️ **Mental Health Chatbot (Ethical AI System)**  
-A structured chatbot built using a **16-phase architecture** with safety layers, risk detection, contextual understanding, and guided responses.  
-👉 *NLP | ML | Python*
+Currently building
+Extending Aishie with a system-awareness module — real-time machine state monitoring that feeds back into assistant behavior decisions.
 
----
-
-### 🍽️ **Restaurant Management System**  
-Menu operations, order handling, and billing — built as an interactive Python CLI project.
-
----
-
-### 🎵 **Custom Music Player (Frontend)**  
-A beautifully designed music player made using HTML, CSS, and JavaScript with complete UI controls.
-
----
-
-### 📚 **Book Library Management App (Frontend)**  
-A clean and simple library application for adding, searching, and managing books.
-
----
-
-## 📈 GitHub Stats
-
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshPratap2314&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-- 📍 Rajasthan, India  
-- 📧 Email: **shakyaansh9756@gmail.com**  
-- 🔗 LinkedIn: **https://linkedin.com/in/ansh-pratap-68156625b**  
-- 🐙 GitHub: **https://github.com/AnshPratap2314**
-
----
-
-### ⭐ *Thanks for visiting my profile! Feel free to explore my work and connect with me.*  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnshPratap2314&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
