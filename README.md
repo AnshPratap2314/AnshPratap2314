@@ -90,7 +90,7 @@ Intent-classification chatbot with named entity recognition and multi-turn conte
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/58a6ff/AnshPratap2314" alt="Ansh Pratap GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
