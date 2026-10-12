@@ -1,132 +1,109 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Ansh+Pratap;AI%2FML+%26+Software+Developer;Python+%C2%B7+FastAPI+%C2%B7+LLM+Applications" alt="Ansh Pratap - AI/ML and Software Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Ansh+Pratap;AI%2FML-Focused+Software+Developer;Python+%7C+FastAPI+%7C+Generative+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-Final-year B.Tech CSE student at Mewar University (expected 2027), based in Chittorgarh, Rajasthan, India.<br/>
-Looking for entry-level **AI/ML**, **Generative AI**, **Python** and **backend** roles.
+Final-year B.Tech CSE student · Mewar University · Expected 2027 · Rajasthan, India
 
-<a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/AnshPratap2314"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:shakyaansh9756@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-pratap-68156625b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shakyaansh9756@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About
+## About
 
-I build Python/FastAPI backends with AI features built in: LLM integration with validated structured output, scikit-learn text classifiers, and OpenCV face recognition. Two of my projects are deployed on Render, and I write automated tests for backend logic.
+I build Python/FastAPI backends that combine machine learning and LLM features with the engineering around them: validated APIs, persistent sessions, authentication, rate limiting, and automated tests. My recent work is a safety-first mental health chatbot and a Gemini-powered interview platform, both deployed on Render.
 
-My strongest interest is making AI-powered software behave predictably: validating model output, adding safeguards around LLM responses, and debugging the pipeline around the model, not just calling an API.
+**Looking for:** AI/ML Engineer, Generative AI / LLM application, Python Developer, and Backend Developer internships and fresher roles.
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-### 🎯 AI Interview Simulator — Interview Preparation OS
-**[Live Demo](https://ai-based-interview-simulator-1.onrender.com/) · [Source](https://github.com/AnshPratap2314/ai-based-interview-simulator)**
+- **Languages:** Python, JavaScript, C, C++, SQL
+- **Backend & APIs:** FastAPI, REST, Pydantic, session/token auth, rate limiting, input validation
+- **AI/ML:** scikit-learn, TF-IDF, Logistic Regression, NLP, text classification, OpenCV, face_recognition, NumPy, Pandas, Keras
+- **Generative AI:** Google Gemini API, structured LLM output validation, prompt engineering, OpenAI API (optional integration)
+- **Data & Frontend:** SQLite, HTML/CSS, vanilla JavaScript
+- **Testing & Tools:** Pytest, Git/GitHub, Docker (basic), Render
+- **Exposure:** Node.js, Express, MongoDB (team project), RAG (fundamentals)
 
-`Python` `FastAPI` `Pydantic` `SQLite` `Google Gemini API` `JavaScript` `Pytest` `Render`
+---
 
-Practice interviews for a chosen role: the app generates questions, takes answers, and returns evaluation feedback.
+## Featured Projects
 
-- FastAPI REST endpoints with Pydantic request validation.
-- SQLite persistence for interview sessions and candidate history, with session and candidate token handling.
-- Gemini integration that generates role-specific questions across 3 tracks (Technical, HR, AI/ML) and 3 difficulty levels.
-- Answers are evaluated by the LLM into **validated structured output**, so malformed model responses are caught instead of reaching the user.
-- Pytest backend test suite and setup documentation.
+### MindCare AI: Safety-Oriented Mental Health Support Chatbot
+[Live demo](https://mindcare-ai-o1e5.onrender.com) · [Source](https://github.com/AnshPratap2314/AI-Mental-health-chatbot)
 
-> Scoring is LLM-generated practice feedback. It is not a validated measure of candidate ability or hiring outcomes.
+`Python` `FastAPI` `scikit-learn` `Docker` `Render`
 
-### 🧠 MindCare AI — Safety-oriented mental health support chatbot
-**[Live Demo](https://mindcare-ai-o1e5.onrender.com/) · [Source](https://github.com/AnshPratap2314/AI-Mental-health-chatbot)**
+- **Safety-first routing:** a rule-based behavior/risk engine is authoritative. High-risk messages never reach the LLM, and the trained model's risk output is never used for safety decisions.
+- **Trained response model:** TF-IDF + Logistic Regression on a 50,000-message synthetic dataset (20 intents, English + Hinglish) predicting intent, mood, topic and risk, with a deterministic fallback when the optional LLM is off or fails.
+- **Evaluation hygiene:** train/validation/test splits with duplicate and leakage audits, plus separate hard-negative and challenge-case evaluation scripts.
+- **Hardening:** session management, CORS validation, an authenticated audit endpoint, and 200+ pytest tests covering safety, sessions and API security.
 
-`Python` `FastAPI` `scikit-learn` `TF-IDF` `Logistic Regression` `Joblib` `JavaScript` `Docker` `Render`
+*Synthetic data only. Not clinically validated, and not a medical or diagnostic tool.*
 
-A web chat application focused on how an AI system should behave when users may be in distress.
+### AI Interview Simulator
+[Live demo](https://ai-based-interview-simulator-1.onrender.com/) · [Source](https://github.com/AnshPratap2314/ai-based-interview-simulator)
 
-- FastAPI backend with session handling and API safeguards behind an HTML/CSS/JavaScript chat UI.
-- TF-IDF + Logistic Regression models (saved with Joblib) for intent, mood, topic and risk classification, trained on a 50,000-example **synthetic** dataset.
-- **Design decision:** rule-based risk analysis takes priority over LLM-generated responses, so the LLM is not the only safeguard.
-- Automated test suite; Docker configuration; deployed on Render.
+`Python` `FastAPI` `Pydantic` `SQLite` `Gemini API` `JavaScript` `Render`
 
-> A software engineering project. Not clinically validated, not a diagnostic tool, and not a substitute for professional help.
+- **Structured evaluation:** Gemini scores answers against a Pydantic schema, with provider retry and validation errors surfaced as proper API responses. Deterministic checks flag answers for human review (very short, off-topic, language mismatch, inconsistent scores).
+- **Persistent state:** SQLite-backed interview state, candidate history and summaries, separate candidate and session credentials with expiry, rate limiting with `Retry-After`, and idempotent evaluation requests.
+- **Adaptive difficulty:** the next question's difficulty moves up or down based on a rolling average of recent scores.
+- **JD / résumé intelligence:** extracts requirements from a job description and a résumé, matches them, and builds a personalized question plan.
+- **Tests:** 76 pytest tests, using a fake Gemini client so no API key is needed.
 
-### 📚 StudyVerse AI — AI learning and productivity workspace
-**[Live Demo](https://study-verse-ai-eight.vercel.app/) · [Source](https://github.com/AnshPratap2314/StudyVerse-AI)**
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JavaScript` `Google GenAI SDK`
-
-A full-stack study app with user accounts, an AI tutor, AI-generated study packs, flashcards and quizzes.
-
-- Contributed to the Node.js/Express and MongoDB application.
-- Contributed to an AI provider gateway (adapters with fallback handling).
-- Contributed to document-processing and retrieval modules.
-
-### 🎙️ Aishie — Voice-controlled desktop AI assistant *(prototype)*
-**[Source](https://github.com/AnshPratap2314/Aishie-AI-Assistant)**
+### Aishie: Voice-Controlled Desktop Assistant (macOS prototype)
+[Source](https://github.com/AnshPratap2314/Aishie-AI-Assistant)
 
 `Python` `SpeechRecognition` `pyttsx3` `OpenCV` `face_recognition` `PyAutoGUI` `AppleScript`
 
-- Voice commands via speech recognition, spoken replies via text-to-speech, and desktop automation on macOS (AppleScript, PyAutoGUI).
-- Face recognition (OpenCV, `face_recognition`), local JSON memory, and messaging integrations.
-- Experimental prototype that depends on macOS.
+- Wake-word detection with fuzzy matching, spoken responses, and fuzzy-matched command routing.
+- Face-recognition gate using face embeddings and distance thresholds before the assistant starts.
+- Installed-app monitoring with `watchdog` (change log plus a voice command to query it), JSON-based memory, and messaging via AppleScript.
+- Uses Google's speech recognition API and Wikipedia, so it needs an internet connection.
 
 ---
 
-## 🛠️ Technical Skills
+## Experience & Training
 
-- **Languages:** `Python` `JavaScript` `C` `C++` `SQL`
-- **Backend & APIs:** `FastAPI` `REST APIs` `Pydantic` `Node.js` `Express.js` `Input Validation` `Session Management`
-- **AI/ML & NLP:** `scikit-learn` `TF-IDF` `Logistic Regression` `Text Classification` `OpenCV` `Keras` `NumPy` `Pandas`
-- **Generative AI:** `Google Gemini API` `LLM Integration` `Prompt Engineering` `Structured LLM Output` `RAG (fundamentals)`
-- **Databases:** `SQLite` `MongoDB (Mongoose)`
-- **Frontend:** `HTML5` `CSS3` `Responsive UI`
-- **Testing & Tools:** `Pytest` `Node.js Test Runner` `Git` `GitHub` `VS Code` `Uvicorn`
-- **Deployment:** `Render` `Docker (basic configuration)`
+**AI Intern, Internship Studio (iStudio)** · Oct 2025 – Jan 2026
+- Automated recurring data-preprocessing steps in a training pipeline with Python.
+- Redesigned LLM prompt templates to enforce a structured output schema.
+- Used EDA to identify label noise and class imbalance ahead of deployment.
 
----
-
-## 💼 Experience & Training
-
-**Artificial Intelligence Intern — Internship Studio (iStudio)** · Oct 2025 – Jan 2026
-- Automated recurring manual data-preprocessing steps in a Python training pipeline, shortening experiment iteration time.
-- Redesigned LLM prompt templates to enforce a structured output schema, removing a manual post-processing step.
-- Used EDA to identify label noise and class imbalance, which prompted an architecture revision before deployment.
-
-**AI & ML Industrial Trainee — Central Tool Room & Training Centre (CTTC), Bhubaneswar** · Apr 2025 – May 2025
-- One-month training: Python, supervised/unsupervised learning, NLP, computer vision, Keras.
+**AI & ML Industrial Trainee, CTTC Bhubaneswar** · Apr – May 2025
 - Built a face detection and recognition attendance system (OpenCV, SVM, LBPH) on a self-collected dataset.
-- Benchmarked 4 classifiers (SVM, KNN, Decision Tree, Neural Network) on identical data, weighing accuracy against inference speed.
+- Benchmarked SVM, KNN, Decision Tree and Neural Network classifiers on identical data.
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-**B.Tech, Computer Science and Engineering** — Mewar University, Chittorgarh, Rajasthan · 2023 – 2027 (expected)
+**B.Tech, Computer Science & Engineering**, Mewar University (2023 – 2027, expected)
 
-- Google AI Essentials — Google (Coursera), Aug 2026
-- Google Prompting Essentials — Google (Coursera), Sep 2026
-- Artificial Intelligence Fundamentals — IBM SkillsBuild, Oct 2026
-- Data Science & Analytics — HP LIFE, Sep 2025
+Google AI Essentials · Google Prompting Essentials · IBM SkillsBuild: AI Fundamentals · HP LIFE: Data Science & Analytics
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnshPratap2314&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AnshPratap2314&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 </div>
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-**[LinkedIn](https://linkedin.com/in/ansh-pratap-68156625b)** · **[GitHub](https://github.com/AnshPratap2314)** · **[Email](mailto:shakyaansh9756@gmail.com)**
+[GitHub](https://github.com/AnshPratap2314) · [LinkedIn](https://linkedin.com/in/ansh-pratap-68156625b) · [shakyaansh9756@gmail.com](mailto:shakyaansh9756@gmail.com)
+
+</div>
