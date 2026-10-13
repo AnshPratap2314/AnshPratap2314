@@ -14,7 +14,7 @@ I build and test Python/FastAPI backends that add ML and LLM features, with vali
 
 My two deployed projects, a safety-first mental health chatbot and a Gemini-powered interview platform, focus on handling AI output responsibly: validating it, falling back safely, and testing the failure paths. I also work with computer vision and NLP, and I'm a final-year B.Tech student looking for internships and fresher roles.
 
-## Recruiter Snapshot
+## At a Glance
 
 | | |
 |---|---|
