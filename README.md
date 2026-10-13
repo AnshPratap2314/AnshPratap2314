@@ -103,6 +103,24 @@ flowchart LR
 
 ---
 
+### StudyVerse AI
+**AI learning and productivity workspace (team project)** · *Best fit for: Full-stack, Generative AI*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1F6FEB?style=flat-square)](https://study-verse-ai-eight.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/AnshPratap2314/StudyVerse-AI)
+
+`Node.js` `Express` `MongoDB` `JavaScript` `Gemini` `OpenAI` `Groq`
+
+**What it is:** a collaborative full-stack study platform where students chat with an AI tutor, generate study packs, flashcards and quizzes, and ask questions over their own uploaded documents.
+
+- **Multi-provider AI gateway:** routes requests across Gemini, OpenAI and Groq, with role-based agents (router, researcher, teacher, critic, synthesizer).
+- **Document Q&A (RAG):** document processing, chunking and retrieval over uploaded study material.
+- **Accounts and data:** JWT authentication with hashed passwords, MongoDB/Mongoose models, and ownership checks for per-user data isolation.
+- **Tests:** five backend test files covering security regression, data isolation and API contracts.
+- **My contribution:** *(add your specific part here, e.g. a module, feature or fix, so recruiters know what you built)*
+
+---
+
 ### Aishie
 **Voice-controlled desktop assistant (macOS prototype)** · *Best fit for: Python, Computer Vision*
 
@@ -127,7 +145,7 @@ flowchart LR
 | **Generative AI** | Gemini API, structured output validation, prompt engineering, OpenAI API (optional integration) |
 | **Data & Frontend** | SQLite, HTML, CSS, vanilla JavaScript |
 | **Testing & Tools** | Pytest, Git/GitHub, Docker (basic), Render |
-| **Exposure** | Node.js, Express, MongoDB (team project), RAG fundamentals |
+| **Exposure** | Node.js, Express, MongoDB (StudyVerse team project), RAG fundamentals |
 
 ---
 
