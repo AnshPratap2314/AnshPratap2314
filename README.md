@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,60:168BFF,100:A855F7&height=110&section=header" alt="" width="100%" /> <img src="assets/hero.svg" alt="Ansh Pratap — AI/ML-focused software developer. Python, machine learning, generative AI and backend engineering. Open to internships and fresher roles." width="100%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,60:168BFF,100:A855F7&height=110&section=header" alt="" width="100%" /> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/hero.svg" alt="Ansh Pratap — AI/ML-focused software developer. Python, machine learning, generative AI and backend engineering. Open to internships and fresher roles." width="100%" />
 
 Python · Machine Learning · Generative AI · Backend Engineering
 
@@ -8,7 +8,7 @@ I build and test Python/FastAPI backends that add ML and LLM features, with vali
 
 <a href="https://ansh-pratap-developer.ai.studio"><img src="https://img.shields.io/badge/Portfolio-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:shakyaansh9756@gmail.com"><img src="https://img.shields.io/badge/Email-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div> <br/> <img src="assets/sec-02.svg" alt="02 / My building philosophy: More than just code." width="100%" /> <table> <tr> <td width="55%" valign="top">
+</div> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-02.svg" alt="02 / My building philosophy: More than just code." width="100%" /> <table> <tr> <td width="55%" valign="top">
 From ideas to implementation
 
 My two deployed projects, a safety-first mental health chatbot and a Gemini-powered interview platform, focus on handling AI output responsibly: validating it, falling back safely, and testing the failure paths.
@@ -26,7 +26,7 @@ Core strengths<br/>FastAPI + Pydantic APIs · SQLite persistence · LLM output v
 
 Experience<br/>AI Intern, iStudio (Oct 2025 – Jan 2026)<br/>AI/ML Industrial Trainee, CTTC (Apr – May 2025)
 
-</td> </tr> </table> <br/> <img src="assets/sec-03.svg" alt="03 / My engine room: Tools I build with." width="100%" /> <table> <tr> <td width="50%" valign="top">
+</td> </tr> </table> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-03.svg" alt="03 / My engine room: Tools I build with." width="100%" /> <table> <tr> <td width="50%" valign="top">
 
 01 / LANGUAGES<br/><img src="https://img.shields.io/badge/Python-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=python&logoColor=22D3EE" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=javascript&logoColor=22D3EE" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=c&logoColor=22D3EE" alt="C" /> <img src="https://img.shields.io/badge/C++-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=cplusplus&logoColor=22D3EE" alt="C++" /> <img src="https://img.shields.io/badge/SQL-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="SQL" />
 
@@ -48,7 +48,7 @@ Experience<br/>AI Intern, iStudio (Oct 2025 – Jan 2026)<br/>AI/ML Industrial T
 
 <sub><b>Exposure</b> (team project and fundamentals, not primary stack): <img src="https://img.shields.io/badge/Node.js-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=nodedotjs&logoColor=22D3EE" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=express&logoColor=22D3EE" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=mongodb&logoColor=22D3EE" alt="MongoDB" /> <img src="https://img.shields.io/badge/RAG_fundamentals-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="RAG fundamentals" /></sub>
 
-<br/> <img src="assets/sec-04.svg" alt="04 / Featured builds." width="100%" /> <img src="assets/proj-mindcare.svg" alt="MindCare AI: safety-oriented mental health support chatbot" width="100%" />
+<br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-04.svg" alt="04 / Featured builds." width="100%" /> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/proj-mindcare.svg" alt="MindCare AI: safety-oriented mental health support chatbot" width="100%" />
 
 Safety-oriented mental health support chatbot that keeps risk decisions deterministic and uses ML and LLM components only where it is safe to.
 
@@ -90,7 +90,7 @@ Trained response model
 
 <sub>Synthetic, non-clinical data. Not clinically validated and not a medical or diagnostic tool.</sub>
 
-<br/> <img src="assets/proj-interview.svg" alt="AI Interview Simulator: interview practice with LLM-based answer evaluation" width="100%" />
+<br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/proj-interview.svg" alt="AI Interview Simulator: interview practice with LLM-based answer evaluation" width="100%" />
 
 Interview practice platform with LLM-based answer evaluation, persistent sessions and job-description analysis.
 
@@ -124,7 +124,7 @@ Interview engine andadaptive difficulty
 Gemini evaluation
 Pydantic validation andreview flags
 SQLite
-</details> <br/> <table> <tr> <td width="50%" valign="top"> <img src="assets/proj-studyverse.svg" alt="StudyVerse AI: AI learning workspace, team project" width="100%" />
+</details> <br/> <table> <tr> <td width="50%" valign="top"> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/proj-studyverse.svg" alt="StudyVerse AI: AI learning workspace, team project" width="100%" />
 
 AI learning workspace (team project) where students chat with an AI tutor, generate study packs, flashcards and quizzes, and ask questions over uploaded documents.
 
@@ -136,7 +136,7 @@ Multi-provider AI gateway over Gemini, OpenAI and Groq, with role-based agents (
 Document Q&A (RAG): document processing and retrieval over uploaded study material.
 Accounts and data: JWT authentication with hashed passwords, Mongoose models, and per-user data isolation.
 Tests: five backend test files covering security regression, data isolation and API contracts.
-</td> <td width="50%" valign="top"> <img src="assets/proj-aishie.svg" alt="Aishie: voice-controlled desktop assistant, macOS prototype" width="100%" />
+</td> <td width="50%" valign="top"> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/proj-aishie.svg" alt="Aishie: voice-controlled desktop assistant, macOS prototype" width="100%" />
 
 Voice-controlled desktop assistant (macOS prototype).
 
@@ -150,7 +150,7 @@ Requires internet access (Google speech recognition, Wikipedia) and macOS for th
 
 Challenge: spoken transcripts are noisy, so exact string matching misses commands. Wake-word detection and command routing use fuzzy matching to tolerate recognition errors.
 
-</td> </tr> </table> <br/> <img src="assets/sec-05.svg" alt="05 / How I build: Ideate, engineer, ship." width="100%" /> <img src="assets/flow.svg" alt="Workflow diagram: 01 Ideate, 02 Engineer, 03 Ship" width="100%" /> <table> <tr> <td width="33%" valign="top">
+</td> </tr> </table> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-05.svg" alt="05 / How I build: Ideate, engineer, ship." width="100%" /> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/flow.svg" alt="Workflow diagram: 01 Ideate, 02 Engineer, 03 Ship" width="100%" /> <table> <tr> <td width="33%" valign="top">
 
 01 / IDEATE<br/>Start from a concrete failure risk, such as unsafe LLM replies, malformed model output or noisy transcripts, and design around it.
 
@@ -162,7 +162,7 @@ Challenge: spoken transcripts are noisy, so exact string matching misses command
 
 03 / SHIP<br/>Pytest regression and failure-path tests, then deployment on Render (MindCare AI, AI Interview Simulator) and Vercel (StudyVerse AI), with Docker for MindCare AI.
 
-</td> </tr> </table> <br/> <img src="assets/sec-06.svg" alt="06 / Builder credentials: Experience and training." width="100%" /> <table> <tr> <td width="20%" valign="top"><code>OCT 2025 – JAN 2026</code></td> <td valign="top">
+</td> </tr> </table> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-06.svg" alt="06 / Builder credentials: Experience and training." width="100%" /> <table> <tr> <td width="20%" valign="top"><code>OCT 2025 – JAN 2026</code></td> <td valign="top">
 
 AI Intern · Internship Studio (iStudio)
 
@@ -183,11 +183,11 @@ B.Tech, Computer Science & Engineering · Mewar University
 
 Certifications
 
-<table> <tr> <td align="center" width="25%">Google<br/><b>AI Essentials</b></td> <td align="center" width="25%">Google<br/><b>Prompting Essentials</b></td> <td align="center" width="25%">IBM SkillsBuild<br/><b>AI Fundamentals</b></td> <td align="center" width="25%">HP LIFE<br/><b>Data Science &amp; Analytics</b></td> </tr> </table> <br/> <img src="assets/sec-07.svg" alt="07 / Developer dashboard: GitHub at a glance." width="100%" /> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&icon_color=168BFF&text_color=A7B4CC" alt="GitHub stats for AnshPratap2314" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&text_color=A7B4CC" alt="Most used languages for AnshPratap2314" /> <img src="https://streak-stats.demolab.com?user=AnshPratap2314&theme=transparent&background=0D1428&stroke=263B60&ring=168BFF&fire=FF4655&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A7B4CC&dates=A7B4CC" alt="GitHub contribution streak for AnshPratap2314" width="60%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPratap2314&bg_color=070B18&color=A7B4CC&line=168BFF&point=22D3EE&area=true&area_color=168BFF&hide_border=true" alt="Contribution activity graph for AnshPratap2314" width="100%" />
+<table> <tr> <td align="center" width="25%">Google<br/><b>AI Essentials</b></td> <td align="center" width="25%">Google<br/><b>Prompting Essentials</b></td> <td align="center" width="25%">IBM SkillsBuild<br/><b>AI Fundamentals</b></td> <td align="center" width="25%">HP LIFE<br/><b>Data Science &amp; Analytics</b></td> </tr> </table> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-07.svg" alt="07 / Developer dashboard: GitHub at a glance." width="100%" /> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&icon_color=168BFF&text_color=A7B4CC" alt="GitHub stats for AnshPratap2314" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&text_color=A7B4CC" alt="Most used languages for AnshPratap2314" /> <img src="https://streak-stats.demolab.com?user=AnshPratap2314&theme=transparent&background=0D1428&stroke=263B60&ring=168BFF&fire=FF4655&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A7B4CC&dates=A7B4CC" alt="GitHub contribution streak for AnshPratap2314" width="60%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPratap2314&bg_color=070B18&color=A7B4CC&line=168BFF&point=22D3EE&area=true&area_color=168BFF&hide_border=true" alt="Contribution activity graph for AnshPratap2314" width="100%" />
 
 <sub>Live data from public services. Language percentages reflect repository size, not overall skill.</sub>
 
-</div> <br/> <img src="assets/sec-08.svg" alt="08 / Start a conversation: Let's build something great." width="100%" /> <table> <tr> <td><a href="https://ansh-pratap-developer.ai.studio"><img src="assets/contact-portfolio.svg" alt="Portfolio: ansh-pratap-developer.ai.studio" width="100%" /></a></td> <td><a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="assets/contact-linkedin.svg" alt="LinkedIn: ansh-pratap-68156625b" width="100%" /></a></td> </tr> <tr> <td><a href="https://github.com/AnshPratap2314"><img src="assets/contact-github.svg" alt="GitHub: AnshPratap2314" width="100%" /></a></td> <td><a href="mailto:shakyaansh9756@gmail.com"><img src="assets/contact-email.svg" alt="Email: shakyaansh9756@gmail.com" width="100%" /></a></td> </tr> </table> <div align="center">
+</div> <br/> <img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/sec-08.svg" alt="08 / Start a conversation: Let's build something great." width="100%" /> <table> <tr> <td><a href="https://ansh-pratap-developer.ai.studio"><img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/contact-portfolio.svg" alt="Portfolio: ansh-pratap-developer.ai.studio" width="100%" /></a></td> <td><a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/contact-linkedin.svg" alt="LinkedIn: ansh-pratap-68156625b" width="100%" /></a></td> </tr> <tr> <td><a href="https://github.com/AnshPratap2314"><img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/contact-github.svg" alt="GitHub: AnshPratap2314" width="100%" /></a></td> <td><a href="mailto:shakyaansh9756@gmail.com"><img src="https://raw.githubusercontent.com/AnshPratap2314/AnshPratap2314/main/assets/contact-email.svg" alt="Email: shakyaansh9756@gmail.com" width="100%" /></a></td> </tr> </table> <div align="center">
 
 Validate the output. Fall back safely. Test the failure paths.
 
