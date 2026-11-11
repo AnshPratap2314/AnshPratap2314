@@ -1,283 +1,194 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:070B18,45:10264A,100:168BFF&height=190&section=header&text=ANSH%20PRATAP&fontSize=52&fontColor=F8FAFC&fontAlignY=40&desc=AI%2FML-FOCUSED%20SOFTWARE%20DEVELOPER&descSize=17&descAlignY=66&animation=fadeIn" width="100%" alt="Ansh Pratap — AI/ML-focused software developer" />
-PYTHON · MACHINE LEARNING · GENERATIVE AI · BACKEND ENGINEERING
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,60:168BFF,100:A855F7&height=110&section=header" alt="" width="100%" /> <img src="assets/hero.svg" alt="Ansh Pratap — AI/ML-focused software developer. Python, machine learning, generative AI and backend engineering. Open to internships and fresher roles." width="100%" />
+
+Python · Machine Learning · Generative AI · Backend Engineering
+
 I build and test Python/FastAPI backends that add ML and LLM features, with validation, persistence and failure handling built in.
 
-<a href="https://github.com/AnshPratap2314">
-  <img src="https://img.shields.io/badge/GitHub-AnshPratap2314-168BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://ansh-pratap-developer.ai.studio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=07111F" alt="Portfolio" />
-</a>
-<a href="mailto:shakyaansh9756@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-Email-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a></div><div align="center">01 / INTRODUCTION   02 / TECHNICAL ARSENAL   03 / FEATURED BUILDS   04 / EXPERIENCE
-</div>01 / MORE THAN JUST CODE
-<table>
-<tr>
-<td width="62%" valign="top">Building intelligent systems with engineering discipline.
-I'm a final-year B.Tech Computer Science & Engineering student at Mewar University (2023–2027 expected), focused on AI/ML, Generative AI, Python development and backend engineering.
+<br/>
 
-My work includes a safety-oriented mental health chatbot and an LLM-powered interview platform. Both projects emphasize responsible AI integration: validating model output, handling failure paths, maintaining persistent state and testing system behavior.
+<a href="https://ansh-pratap-developer.ai.studio"><img src="https://img.shields.io/badge/Portfolio-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:shakyaansh9756@gmail.com"><img src="https://img.shields.io/badge/Email-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-I also work with computer vision and NLP, and I'm looking for AI/ML Engineer Intern, Generative AI Engineer Intern, Python Developer, Backend Developer and entry-level Software Engineer opportunities.
-</td>
-<td width="38%" valign="top">PROFILE SNAPSHOT
-FIELD	DETAILS
-Education	B.Tech CSE
-University	Mewar University
-Timeline	2023–2027 (expected)
-Focus	AI/ML · GenAI · Backend
-Core stack	Python · FastAPI
-Engineering	Validation · Persistence · Testing
+</div> <br/> <img src="assets/sec-02.svg" alt="02 / My building philosophy: More than just code." width="100%" /> <table> <tr> <td width="55%" valign="top">
+From ideas to implementation
 
+My two deployed projects, a safety-first mental health chatbot and a Gemini-powered interview platform, focus on handling AI output responsibly: validating it, falling back safely, and testing the failure paths.
 
-</td>
-</tr>
-</table>WHAT I FOCUS ON
-<table>
-<tr>
-<td width="33%" valign="top">01 — INTELLIGENT SYSTEMS
+I also work with computer vision and NLP, and I'm a final-year B.Tech student looking for internships and fresher roles.
 
-Machine learning, text classification, NLP and LLM-powered application features.
-</td>
-<td width="33%" valign="top">
-02 — BACKEND ENGINEERING
+Target roles<br/> <code>AI/ML Engineer Intern</code> <code>Generative AI Engineer Intern</code> <code>Python Developer</code> <code>Backend Developer</code> <code>Entry-level Software Engineer</code>
 
-FastAPI, structured APIs, authentication, persistence, rate limiting and input validation.
-</td>
-<td width="34%" valign="top">
-03 — RELIABLE AI
+</td> <td width="45%" valign="top">
+At a glance
 
-Structured output validation, deterministic safety controls, fallback handling and regression testing.
-</td>
-</tr>
-</table>02 / THE TECHNICAL ARSENAL
-<sub>TOOLS CHANGE. THE ENGINEERING FUNDAMENTALS STAY.</sub>
-<table>
-<tr>
-<td width="50%" valign="top">01 — PROGRAMMING LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp&theme=dark" alt="Python, JavaScript, C and C++" />Python JavaScript C C++ SQL
-02 — AI / MACHINE LEARNING
-<img src="https://skillicons.dev/icons?i=opencv,sklearn&theme=dark" alt="OpenCV and scikit-learn" />scikit-learn TF-IDF Logistic Regression NLP OpenCV face_recognition NumPy Pandas Keras
-03 — GENERATIVE AI
-Gemini API OpenAI API (optional integration) Prompt Engineering Structured Output Validation
-</td>
-<td width="50%" valign="top">04 — BACKEND & APIs
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />FastAPI REST Pydantic Token Authentication Rate Limiting Input Validation
-05 — DATABASES & FRONTEND
-<img src="https://skillicons.dev/icons?i=sqlite,html,css,js&theme=dark" alt="SQLite, HTML, CSS and JavaScript" />SQLite HTML CSS Vanilla JavaScript
-06 — TESTING & DEVELOPMENT TOOLS
-<img src="https://skillicons.dev/icons?i=pytest,git,github,docker&theme=dark" alt="Pytest, Git, GitHub and Docker" />Pytest Git GitHub Docker (basic) Render
-07 — ADDITIONAL EXPOSURE
-Node.js Express MongoDB RAG fundamentals
+Education<br/>B.Tech CSE, Mewar University (2023 – 2027, expected)
 
-<sub>Node.js, Express and MongoDB are listed as exposure through the StudyVerse AI team project.</sub>
-</td>
-</tr>
-</table>03 / FEATURED BUILDS
-<sub>FROM PROBLEM DEFINITION TO IMPLEMENTATION — PROJECTS BUILT AROUND PRACTICAL ENGINEERING CHALLENGES.</sub>
-01 — MINDCARE AI
-A safety-oriented mental health support chatbot
+Core strengths<br/>FastAPI + Pydantic APIs · SQLite persistence · LLM output validation · scikit-learn text classification · Pytest regression testing
 
-A chatbot designed around a key constraint: risk decisions must remain deterministic, while ML and LLM components are used only where appropriate.
-<p>
-<a href="https://mindcare-ai-o1e5.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-168BFF?style=for-the-badge&logo=render&logoColor=white" alt="MindCare AI live demo" /></a>
-<a href="https://github.com/AnshPratap2314/AI-Mental-health-chatbot"><img src="https://img.shields.io/badge/SOURCE_CODE-263B60?style=for-the-badge&logo=github&logoColor=white" alt="MindCare AI source code" /></a>
-</p>
-Python FastAPI scikit-learn TF-IDF Docker Render
-<table>
-<tr>
-<td width="50%" valign="top">
-ENGINEERING FEATURES
-- A rule-based behavior/risk engine is authoritative.
-- High-risk messages never reach the LLM.
-- The trained model's risk output is never used for safety decisions.
-- TF-IDF + Logistic Regression response model trained on a 50,000-message synthetic dataset covering 20 intents in English and Hinglish.
-- Predicts intent, mood, topic and risk.
-</td>
-<td width="50%" valign="top">VALIDATION & HARDENING
-- Train, validation and test splits.
-- Duplicate and leakage audits.
-- Hard-negative and challenge-case scripts.
-- Session management and CORS validation.
-- Authenticated audit endpoint.
-- 200+ pytest tests covering safety, sessions and API security.
-</td>
-</tr>
-</table>THE ENGINEERING CHALLENGE
+Experience<br/>AI Intern, iStudio (Oct 2025 – Jan 2026)<br/>AI/ML Industrial Trainee, CTTC (Apr – May 2025)
 
-An LLM can produce an unsafe reply to a message in crisis. MindCare makes the risk decision first using deterministic rules, then gates LLM use behind that decision. If the LLM is disabled, errors, or returns invalid output, the system falls back to the trained response model and templates.
-<details>
-<summary><strong>VIEW REQUEST FLOW</strong></summary>```mermaid
-flowchart TD
-    A[Incoming message] --> B[Validate input]
-    B --> C[Deterministic risk analysis]
-    C --> D{High risk?}
-    D -- Yes --> E[Deterministic safety response]
-    D -- No --> F{LLM enabled?}
-    F -- Yes --> G[LLM response]
-    F -- No --> H[Trained response model]
-    G -- Error or invalid output --> H
-    H --> I[Response]
-    E --> I
-```
-</details><sub>DATA & SAFETY NOTE: Uses synthetic, non-clinical data. Not clinically validated and not a medical or diagnostic tool.</sub>
-02 — AI INTERVIEW SIMULATOR
-An interview practice platform with LLM-based answer evaluation, persistent sessions and job-description analysis.
-<p>
-<a href="https://ai-based-interview-simulator-1.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-168BFF?style=for-the-badge&logo=render&logoColor=white" alt="AI Interview Simulator live demo" /></a>
-<a href="https://github.com/AnshPratap2314/ai-based-interview-simulator"><img src="https://img.shields.io/badge/SOURCE_CODE-263B60?style=for-the-badge&logo=github&logoColor=white" alt="AI Interview Simulator source code" /></a>
-</p>
-Python FastAPI Pydantic SQLite Gemini API JavaScript
-<table>
-<tr>
-<td width="50%" valign="top">
-INTERVIEW INTELLIGENCE
-- Gemini evaluates answers against a Pydantic schema.
-- Deterministic checks flag very short, off-topic or language-mismatched answers and inconsistent scores for human review.
-- Adaptive question difficulty uses a rolling average of recent scores.
-- Curated question bank across Technical, HR and AI/ML tracks, with three difficulty levels.
-- Job-description and résumé analysis extracts requirements and builds a personalized question plan.
-</td>
-<td width="50%" valign="top">STATE, SECURITY & TESTING
-- SQLite-backed interview state and candidate history.
-- Separate candidate and session credentials with expiry.
-- Rate limiting with Retry-After.
-- Evaluation requests are idempotent through an X-Evaluation-Id header.
-- Provider retries are limited to transient errors.
-- 76 pytest tests using a fake Gemini client; no API key required.
-</td>
-</tr>
-</table>THE ENGINEERING CHALLENGE
+</td> </tr> </table> <br/> <img src="assets/sec-03.svg" alt="03 / My engine room: Tools I build with." width="100%" /> <table> <tr> <td width="50%" valign="top">
 
-LLM output can be malformed, and network retries can double-score an answer. The platform validates and rejects malformed output, retries providers only for transient errors, and uses idempotent evaluation requests to prevent duplicate scoring.
-<details>
-<summary><strong>VIEW SYSTEM ARCHITECTURE</strong></summary>```mermaid
-flowchart TD
-    A[Browser UI] --> B[FastAPI]
-    B --> C[Authentication, expiry and rate limiting]
-    C --> D[Interview engine and adaptive difficulty]
-    C --> E[Gemini evaluation]
-    E --> F[Pydantic validation and review flags]
-    D --> G[(SQLite)]
-    F --> G
-```
-</details>03 — STUDYVERSE AI
-An AI learning workspace — team project
+01 / LANGUAGES<br/><img src="https://img.shields.io/badge/Python-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=python&logoColor=22D3EE" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=javascript&logoColor=22D3EE" alt="JavaScript" /> <img src="https://img.shields.io/badge/C-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=c&logoColor=22D3EE" alt="C" /> <img src="https://img.shields.io/badge/C++-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=cplusplus&logoColor=22D3EE" alt="C++" /> <img src="https://img.shields.io/badge/SQL-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="SQL" />
 
-A learning workspace where students can chat with an AI tutor, generate study packs, flashcards and quizzes, and ask questions over uploaded documents.
-<p>
-<a href="https://study-verse-ai-eight.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-168BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="StudyVerse AI live demo" /></a>
-<a href="https://github.com/AnshPratap2314/StudyVerse-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-263B60?style=for-the-badge&logo=github&logoColor=white" alt="StudyVerse AI source code" /></a>
-</p>
-Node.js Express MongoDB JavaScript Gemini OpenAI Groq
-<table>
-<tr>
-<td width="50%" valign="top">
-AI & DOCUMENT WORKFLOWS
-- Multi-provider AI gateway across Gemini, OpenAI and Groq.
-- Role-based agents: router, researcher, teacher, critic and synthesizer.
-- Document Q&A using processing and retrieval over uploaded study material.
-</td>
-<td width="50%" valign="top">ACCOUNTS & QUALITY
-- JWT authentication with hashed passwords.
-- Mongoose models and per-user data isolation.
-- Five backend test files covering security regression, data isolation and API contracts.
-</td>
-</tr>
-</table>04 — AISHIE
-Voice-controlled desktop assistant — macOS prototype
-<p>
-<a href="https://github.com/AnshPratap2314/Aishie-AI-Assistant"><img src="https://img.shields.io/badge/SOURCE_CODE-263B60?style=for-the-badge&logo=github&logoColor=white" alt="Aishie source code" /></a>
-</p>
-Python SpeechRecognition OpenCV face_recognition PyAutoGUI AppleScript
-- Face-recognition gate using face embeddings and distance thresholds before the assistant starts.
-- Installed-app monitoring with watchdog, including a change log and a voice command to query it.
-- JSON-based memory and messaging through AppleScript.
-- Requires internet access for Google speech recognition and Wikipedia, and macOS for automation features.
-THE ENGINEERING CHALLENGE
+02 / AI & MACHINE LEARNING<br/><img src="https://img.shields.io/badge/scikit--learn-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=scikitlearn&logoColor=22D3EE" alt="scikit-learn" /> <img src="https://img.shields.io/badge/TF--IDF-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="TF-IDF" /> <img src="https://img.shields.io/badge/Logistic_Regression-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Logistic Regression" /> <img src="https://img.shields.io/badge/NLP-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="NLP" /> <img src="https://img.shields.io/badge/OpenCV-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=opencv&logoColor=22D3EE" alt="OpenCV" /> <img src="https://img.shields.io/badge/face__recognition-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="face_recognition" /> <img src="https://img.shields.io/badge/NumPy-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=numpy&logoColor=22D3EE" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=pandas&logoColor=22D3EE" alt="Pandas" /> <img src="https://img.shields.io/badge/Keras-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=keras&logoColor=22D3EE" alt="Keras" />
 
-Spoken transcripts are noisy, so exact string matching can miss commands. Wake-word detection and command routing use fuzzy matching to tolerate recognition errors.
-04 / HOW THE SYSTEMS ARE BUILT
-<sub>IMPLEMENTATION PATTERNS VISIBLE IN THE PROJECTS ABOVE.</sub>
-<div align="center"><table>
-<tr>
-<td align="center" width="25%">
-01
-DEFINE
-Identify the input, requirements and constraints.
-</td>
-<td align="center" width="25%">
-02
-ENGINEER
-Build APIs, application logic and persistence.
-</td>
-<td align="center" width="25%">
-03
-VALIDATE
-Validate structured output and test failure paths.
-</td>
-<td align="center" width="25%">
-04
-DELIVER
-Deploy the application and expose its workflow.
-</td>
-</tr>
-</table></div>EXAMPLES FROM MY PROJECTS
-- MindCare AI: deterministic risk analysis → gated LLM response → trained-model/template fallback.
-- AI Interview Simulator: authenticated request → interview/evaluation logic → schema validation and review flags → persistent SQLite state.
-- StudyVerse AI: multi-provider AI gateway → role-based agents → document retrieval and Q&A.
-- Aishie: speech input → fuzzy command matching → desktop automation.
-05 / EXPERIENCE & BUILDER CREDENTIALS
-<sub>LEARNING THROUGH TRAINING, EXPERIMENTATION AND PROJECT WORK.</sub>
-<table>
-<tr>
-<td width="50%" valign="top">AI INTERN
-Internship Studio (iStudio)
+03 / GENERATIVE AI<br/><img src="https://img.shields.io/badge/Gemini_API-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=googlegemini&logoColor=22D3EE" alt="Gemini API" /> <img src="https://img.shields.io/badge/Structured_output_validation-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Structured output validation" /> <img src="https://img.shields.io/badge/Prompt_engineering-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/OpenAI_API_(optional_integration)-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=openai&logoColor=22D3EE" alt="OpenAI API (optional integration)" />
 
-OCT 2025 — JAN 2026
-- Automated recurring data-preprocessing steps in a training pipeline with Python.
-- Redesigned LLM prompt templates to enforce a structured output schema.
-- Used exploratory data analysis to identify label noise and class imbalance ahead of deployment.
-</td>
-<td width="50%" valign="top">AI & ML INDUSTRIAL TRAINEE
-CTTC Bhubaneswar
+</td> <td width="50%" valign="top">
 
-APR — MAY 2025
-- Built a face detection and recognition attendance system using OpenCV, SVM and LBPH on a self-collected dataset.
-- Benchmarked SVM, KNN, Decision Tree and Neural Network classifiers on identical data.
-</td>
-</tr>
-</table>EDUCATION
-B.Tech — Computer Science & Engineering
+04 / BACKEND & APIs<br/><img src="https://img.shields.io/badge/FastAPI-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=fastapi&logoColor=22D3EE" alt="FastAPI" /> <img src="https://img.shields.io/badge/REST-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="REST" /> <img src="https://img.shields.io/badge/Pydantic-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=pydantic&logoColor=22D3EE" alt="Pydantic" /> <img src="https://img.shields.io/badge/Token_auth-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Token auth" /> <img src="https://img.shields.io/badge/Rate_limiting-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Rate limiting" /> <img src="https://img.shields.io/badge/Input_validation-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="Input validation" />
 
-Mewar University · 2023–2027 (expected)
-CERTIFICATIONS
-<table>
-<tr>
-<td>Google AI Essentials</td>
-<td>Google Prompting Essentials</td>
-</tr>
-<tr>
-<td>IBM SkillsBuild: AI Fundamentals</td>
-<td>HP LIFE: Data Science & Analytics</td>
-</tr>
-</table>06 / GITHUB DEVELOPER DASHBOARD
-<sub>A LIVE VIEW OF MY PUBLIC GITHUB PROFILE.</sub>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&hide_border=true&bg_color=070B18&title_color=168BFF&icon_color=22D3EE&text_color=F8FAFC&ring_color=A855F7" height="170" alt="GitHub profile statistics for AnshPratap2314" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&hide_border=true&bg_color=070B18&title_color=168BFF&text_color=F8FAFC" height="170" alt="Most-used languages in public repositories" />
-<img src="https://streak-stats.demolab.com?user=AnshPratap2314&hide_border=true&background=070B18&ring=168BFF&fire=FF4655&currStreakLabel=22D3EE&sideLabels=A7B4CC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=7C8BA5" width="80%" alt="GitHub contribution streak for AnshPratap2314" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPratap2314&bg_color=070B18&color=F8FAFC&line=168BFF&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph for AnshPratap2314" /></div><sub>Language percentages reflect repository size, not overall skill. These cards are generated dynamically by third-party services and may occasionally be unavailable.</sub>
-07 / LET'S BUILD SOMETHING GREAT.
-<div align="center">OPEN TO INTERNSHIPS, ENTRY-LEVEL ROLES & COLLABORATION
-Ideas, opportunities and thoughtful engineering — let's connect.
+05 / DATABASES<br/><img src="https://img.shields.io/badge/SQLite-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=sqlite&logoColor=22D3EE" alt="SQLite" />
 
-<a href="https://ansh-pratap-developer.ai.studio"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-<a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/AnshPratap2314"><img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-263B60?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-<a href="mailto:shakyaansh9756@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+06 / FRONTEND<br/><img src="https://img.shields.io/badge/HTML-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=html5&logoColor=22D3EE" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=css3&logoColor=22D3EE" alt="CSS" /> <img src="https://img.shields.io/badge/Vanilla_JavaScript-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=javascript&logoColor=22D3EE" alt="Vanilla JavaScript" />
 
+07 / TESTING & TOOLS<br/><img src="https://img.shields.io/badge/Pytest-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=pytest&logoColor=22D3EE" alt="Pytest" /> <img src="https://img.shields.io/badge/Git-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=git&logoColor=22D3EE" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=github&logoColor=22D3EE" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker_(basic)-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=docker&logoColor=22D3EE" alt="Docker (basic)" /> <img src="https://img.shields.io/badge/Render-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=render&logoColor=22D3EE" alt="Render" />
 
+</td> </tr> </table>
 
-Curious by default. Building with intent.
-</div>
+<sub><b>Exposure</b> (team project and fundamentals, not primary stack): <img src="https://img.shields.io/badge/Node.js-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=nodedotjs&logoColor=22D3EE" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=express&logoColor=22D3EE" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-111F3B?style=flat-square&labelColor=111F3B&color=111F3B&logo=mongodb&logoColor=22D3EE" alt="MongoDB" /> <img src="https://img.shields.io/badge/RAG_fundamentals-111F3B?style=flat-square&labelColor=111F3B&color=111F3B" alt="RAG fundamentals" /></sub>
+
+<br/> <img src="assets/sec-04.svg" alt="04 / Featured builds." width="100%" /> <img src="assets/proj-mindcare.svg" alt="MindCare AI: safety-oriented mental health support chatbot" width="100%" />
+
+Safety-oriented mental health support chatbot that keeps risk decisions deterministic and uses ML and LLM components only where it is safe to.
+
+<a href="https://mindcare-ai-o1e5.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-168BFF?style=for-the-badge&logo=render&logoColor=white" alt="MindCare AI live demo" /></a> <a href="https://github.com/AnshPratap2314/AI-Mental-health-chatbot"><img src="https://img.shields.io/badge/SOURCE_CODE-111F3B?style=for-the-badge&logo=github&logoColor=white" alt="MindCare AI source code" /></a>
+
+<code>Python</code> <code>FastAPI</code> <code>scikit-learn</code> <code>TF-IDF</code> <code>Docker</code> <code>Render</code>
+
+<table> <tr> <td width="50%" valign="top">
+
+Safety-first routing<br/>A rule-based behavior/risk engine is authoritative. High-risk messages never reach the LLM, and the trained model's risk output is never used for safety decisions.
+
+Trained response model<br/>TF-IDF + Logistic Regression on a 50,000-message synthetic dataset (20 intents, English + Hinglish) predicting intent, mood, topic and risk.
+
+</td> <td width="50%" valign="top">
+
+Evaluation discipline<br/>Train/validation/test splits with duplicate and leakage audits, plus hard-negative and challenge-case scripts.
+
+Hardening<br/>Session management, CORS validation, an authenticated audit endpoint, and 200+ pytest tests covering safety, sessions and API security.
+
+</td> </tr> </table>
+
+Challenge: an LLM can produce an unsafe reply to a message in crisis. The risk decision is made first by deterministic rules, and the LLM is gated behind it. If the LLM is off, errors, or returns invalid output, the response falls back to the trained model and templates.
+
+<details> <summary><b>Request flow</b></summary>
+Yes
+No
+Yes
+No
+error or invalid
+Message
+Validate
+Risk analysis
+High risk?
+Deterministic safetyresponse
+LLM enabled?
+LLM reply
+Trained response model
+</details>
+
+<sub>Synthetic, non-clinical data. Not clinically validated and not a medical or diagnostic tool.</sub>
+
+<br/> <img src="assets/proj-interview.svg" alt="AI Interview Simulator: interview practice with LLM-based answer evaluation" width="100%" />
+
+Interview practice platform with LLM-based answer evaluation, persistent sessions and job-description analysis.
+
+<a href="https://ai-based-interview-simulator-1.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4655?style=for-the-badge&logo=render&logoColor=white" alt="AI Interview Simulator live demo" /></a> <a href="https://github.com/AnshPratap2314/ai-based-interview-simulator"><img src="https://img.shields.io/badge/SOURCE_CODE-111F3B?style=for-the-badge&logo=github&logoColor=white" alt="AI Interview Simulator source code" /></a>
+
+<code>Python</code> <code>FastAPI</code> <code>Pydantic</code> <code>SQLite</code> <code>Gemini API</code> <code>JavaScript</code>
+
+<table> <tr> <td width="50%" valign="top">
+
+Structured evaluation<br/>Gemini scores answers against a Pydantic schema. Deterministic checks flag answers for human review (very short, off-topic, language mismatch, inconsistent scores).
+
+Persistent, secured state<br/>SQLite-backed interview state and candidate history, separate candidate and session credentials with expiry, and rate limiting with Retry-After.
+
+Adaptive difficulty<br/>The next question's difficulty moves with a rolling average of recent scores. Questions come from a curated bank across 3 tracks (Technical, HR, AI/ML) and 3 difficulty levels.
+
+</td> <td width="50%" valign="top">
+
+JD / résumé analysis<br/>Extracts requirements from a job description and résumé and builds a personalized question plan.
+
+Tested without an API key<br/>76 pytest tests, using a fake Gemini client so no API key is needed.
+
+</td> </tr> </table>
+
+Challenge: LLM output can be malformed, and network retries can double-score an answer. Malformed output is validated and rejected, provider retries happen only for transient errors, and evaluation requests are idempotent via an X-Evaluation-Id header.
+
+<details> <summary><b>Architecture</b></summary>
+Browser UI
+FastAPI
+Auth, expiry, rate limiting
+Interview engine andadaptive difficulty
+Gemini evaluation
+Pydantic validation andreview flags
+SQLite
+</details> <br/> <table> <tr> <td width="50%" valign="top"> <img src="assets/proj-studyverse.svg" alt="StudyVerse AI: AI learning workspace, team project" width="100%" />
+
+AI learning workspace (team project) where students chat with an AI tutor, generate study packs, flashcards and quizzes, and ask questions over uploaded documents.
+
+<a href="https://study-verse-ai-eight.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-168BFF?style=flat-square" alt="StudyVerse AI live demo" /></a> <a href="https://github.com/AnshPratap2314/StudyVerse-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-111F3B?style=flat-square&logo=github&logoColor=white" alt="StudyVerse AI source code" /></a>
+
+<code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JavaScript</code> <code>Gemini</code> <code>OpenAI</code> <code>Groq</code>
+
+Multi-provider AI gateway over Gemini, OpenAI and Groq, with role-based agents (router, researcher, teacher, critic, synthesizer).
+Document Q&A (RAG): document processing and retrieval over uploaded study material.
+Accounts and data: JWT authentication with hashed passwords, Mongoose models, and per-user data isolation.
+Tests: five backend test files covering security regression, data isolation and API contracts.
+</td> <td width="50%" valign="top"> <img src="assets/proj-aishie.svg" alt="Aishie: voice-controlled desktop assistant, macOS prototype" width="100%" />
+
+Voice-controlled desktop assistant (macOS prototype).
+
+<a href="https://github.com/AnshPratap2314/Aishie-AI-Assistant"><img src="https://img.shields.io/badge/SOURCE_CODE-111F3B?style=flat-square&logo=github&logoColor=white" alt="Aishie source code" /></a>
+
+<code>Python</code> <code>SpeechRecognition</code> <code>OpenCV</code> <code>face_recognition</code> <code>PyAutoGUI</code> <code>AppleScript</code>
+
+Face-recognition gate using face embeddings and distance thresholds before the assistant starts.
+Installed-app monitoring with watchdog (change log plus a voice command to query it), JSON-based memory, and messaging via AppleScript.
+Requires internet access (Google speech recognition, Wikipedia) and macOS for the automation features.
+
+Challenge: spoken transcripts are noisy, so exact string matching misses commands. Wake-word detection and command routing use fuzzy matching to tolerate recognition errors.
+
+</td> </tr> </table> <br/> <img src="assets/sec-05.svg" alt="05 / How I build: Ideate, engineer, ship." width="100%" /> <img src="assets/flow.svg" alt="Workflow diagram: 01 Ideate, 02 Engineer, 03 Ship" width="100%" /> <table> <tr> <td width="33%" valign="top">
+
+01 / IDEATE<br/>Start from a concrete failure risk, such as unsafe LLM replies, malformed model output or noisy transcripts, and design around it.
+
+</td> <td width="33%" valign="top">
+
+02 / ENGINEER<br/>System architecture, FastAPI + Pydantic APIs, ML and LLM integration, with validation and safe fallbacks.
+
+</td> <td width="33%" valign="top">
+
+03 / SHIP<br/>Pytest regression and failure-path tests, then deployment on Render (MindCare AI, AI Interview Simulator) and Vercel (StudyVerse AI), with Docker for MindCare AI.
+
+</td> </tr> </table> <br/> <img src="assets/sec-06.svg" alt="06 / Builder credentials: Experience and training." width="100%" /> <table> <tr> <td width="20%" valign="top"><code>OCT 2025 – JAN 2026</code></td> <td valign="top">
+
+AI Intern · Internship Studio (iStudio)
+
+Automated recurring data-preprocessing steps in a training pipeline with Python.
+Redesigned LLM prompt templates to enforce a structured output schema.
+Used EDA to identify label noise and class imbalance ahead of deployment.
+</td> </tr> <tr> <td valign="top"><code>APR – MAY 2025</code></td> <td valign="top">
+
+AI & ML Industrial Trainee · CTTC Bhubaneswar
+
+Built a face detection and recognition attendance system (OpenCV, SVM, LBPH) on a self-collected dataset.
+Benchmarked SVM, KNN, Decision Tree and Neural Network classifiers on identical data.
+</td> </tr> <tr> <td valign="top"><code>2023 – 2027 (EXPECTED)</code></td> <td valign="top">
+
+B.Tech, Computer Science & Engineering · Mewar University
+
+</td> </tr> </table>
+
+Certifications
+
+<table> <tr> <td align="center" width="25%">Google<br/><b>AI Essentials</b></td> <td align="center" width="25%">Google<br/><b>Prompting Essentials</b></td> <td align="center" width="25%">IBM SkillsBuild<br/><b>AI Fundamentals</b></td> <td align="center" width="25%">HP LIFE<br/><b>Data Science &amp; Analytics</b></td> </tr> </table> <br/> <img src="assets/sec-07.svg" alt="07 / Developer dashboard: GitHub at a glance." width="100%" /> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&icon_color=168BFF&text_color=A7B4CC" alt="GitHub stats for AnshPratap2314" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=transparent&bg_color=0D1428&border_color=263B60&title_color=22D3EE&text_color=A7B4CC" alt="Most used languages for AnshPratap2314" /> <img src="https://streak-stats.demolab.com?user=AnshPratap2314&theme=transparent&background=0D1428&stroke=263B60&ring=168BFF&fire=FF4655&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A7B4CC&dates=A7B4CC" alt="GitHub contribution streak for AnshPratap2314" width="60%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPratap2314&bg_color=070B18&color=A7B4CC&line=168BFF&point=22D3EE&area=true&area_color=168BFF&hide_border=true" alt="Contribution activity graph for AnshPratap2314" width="100%" />
+
+<sub>Live data from public services. Language percentages reflect repository size, not overall skill.</sub>
+
+</div> <br/> <img src="assets/sec-08.svg" alt="08 / Start a conversation: Let's build something great." width="100%" /> <table> <tr> <td><a href="https://ansh-pratap-developer.ai.studio"><img src="assets/contact-portfolio.svg" alt="Portfolio: ansh-pratap-developer.ai.studio" width="100%" /></a></td> <td><a href="https://linkedin.com/in/ansh-pratap-68156625b"><img src="assets/contact-linkedin.svg" alt="LinkedIn: ansh-pratap-68156625b" width="100%" /></a></td> </tr> <tr> <td><a href="https://github.com/AnshPratap2314"><img src="assets/contact-github.svg" alt="GitHub: AnshPratap2314" width="100%" /></a></td> <td><a href="mailto:shakyaansh9756@gmail.com"><img src="assets/contact-email.svg" alt="Email: shakyaansh9756@gmail.com" width="100%" /></a></td> </tr> </table> <div align="center">
+
+Validate the output. Fall back safely. Test the failure paths.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:168BFF,100:070B18&height=90&section=footer" alt="" width="100%" /> </div>
