@@ -168,11 +168,15 @@ Google AI Essentials · Google Prompting Essentials · IBM SkillsBuild: AI Funda
 
 ---
 
+
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats for AnshPratap2314" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most used languages" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshPratap2314&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Ansh's GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPratap2314&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+
 </div>
 
 <sub>Language percentages reflect repository size, not overall skill.</sub>
