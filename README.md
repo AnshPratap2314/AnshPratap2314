@@ -110,7 +110,6 @@ flowchart LR
 - **Document Q&A (RAG):** document processing and retrieval over uploaded study material.
 - **Accounts and data:** JWT authentication with hashed passwords, Mongoose models, and per-user data isolation.
 - **Tests:** five backend test files covering security regression, data isolation and API contracts.
-- **My contribution:** *(add your specific part here, or delete this line)*
 
 ---
 
