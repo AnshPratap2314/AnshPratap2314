@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=130&section=header&text=Ansh%20Pratap&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=AI%2FML-Focused%20Software%20Developer&descSize=17&descAlignY=70" alt="Ansh Pratap, AI/ML-focused software developer" width="100%" />
@@ -144,6 +145,11 @@ flowchart LR
 ---
 
 ## Experience & Training
+
+**Artificial Intelligence Data Operations Intern** · Renan Partners Private Limited · *Nov 2026 · 30 Working Days*
+- Selected for a remote, project-based internship under the **Project Delivery** team.
+- Working on assigned AI data operations project activities and deliverables in accordance with company requirements and quality standards.
+- **Stipend:** Fixed ₹5,000.
 
 **AI Intern** · Internship Studio (iStudio) · *Oct 2025 – Jan 2026*
 - Automated recurring data-preprocessing steps in a training pipeline with Python.
