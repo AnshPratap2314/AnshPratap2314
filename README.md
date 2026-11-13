@@ -146,7 +146,7 @@ flowchart LR
 
 ## Experience & Training
 
-**Artificial Intelligence Data Operations Intern** · Renan Partners Private Limited · *Nov 2026 · 30 Working Days*
+**Artificial Intelligence Data Operations Intern** · Renan Partners Private Limited · *Nov 2026 · Present*
 - Selected for a remote, project-based internship under the **Project Delivery** team.
 - Working on assigned AI data operations project activities and deliverables in accordance with company requirements and quality standards.
 - **Stipend:** Fixed ₹5,000.
