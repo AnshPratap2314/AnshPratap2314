@@ -137,7 +137,7 @@ flowchart LR
 | **AI / ML** | scikit-learn, TF-IDF, Logistic Regression, NLP, OpenCV, face_recognition, NumPy, Pandas, Keras |
 | **Generative AI** | Gemini API, structured output validation, prompt engineering, OpenAI API (optional integration) |
 | **Backend & APIs** | FastAPI, REST, Pydantic, token auth, rate limiting, input validation |
-| **Databases** | SQLite |
+| **Databases** | SQLite | MongoDb | Supabase |
 | **Frontend** | HTML, CSS, vanilla JavaScript |
 | **Testing & Tools** | Pytest, Git/GitHub, Docker (basic), Render |
 | **Exposure** | Node.js, Express, MongoDB (StudyVerse team project), RAG fundamentals |
